@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "John Micheal Acera",
 	"description": "Add project description for free code camp certification",
+	"keywords": [ "descriptive", "related", "words" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
